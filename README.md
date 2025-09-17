@@ -55,28 +55,29 @@ Nykaa is a leading Indian **beauty & lifestyle retailer** with a strong omni-cha
 
 ## 📊 Dashboards
 
-### 1) Sales, Inventory & Customer Analytics
-Unified view of **sales trends, inventory health, and customer engagement**. Quickly spot what products drive growth, potential stock-outs, and demand patterns across channels.  
-📸 *Screenshot:* `docs/images/sales-inventory-customer.png`
+### Sales & Revenue Performance Dashboard
+Shows monthly sales trends, top products, brand-wise sales, payment distribution, and YoY comparison.  
+📸 ![Sales Revenue](docs/images/sales-revenue-performance.png)
 
-### 2) Business Health – Client View
-Executive **KPI snapshot**: revenue, margins, order volume, and customer satisfaction. A single-glance summary of financial and operational performance.  
-📸 *Screenshot:* `docs/images/business-health-client.png`
+### Inventory & Stock Optimization Dashboard
+Highlights warehouse stock distribution, stock age analysis, and product availability across locations.  
+📸 ![Inventory Stock](docs/images/inventory-stock-optimization.png)
 
-### 3) Future Strategy & Expansion
-**Strategic planning** with geographic heatmaps, region performance, and **forecasting** for Tier-2/3 expansion. Highlights risk and opportunities in demand & supply.  
-📸 *Screenshot:* `docs/images/strategy-expansion.png`
+### Customer Feedback & Sentiment Analysis Dashboard
+Analyzes customer sentiment trends, ratings distribution, and restock events.  
+📸 ![Feedback Sentiment](docs/images/customer-feedback-sentiment.png)
 
-### 4) Customer Segmentation & Loyalty
-Profiles **loyalty tiers, repeat behavior, churn risk, and campaign effectiveness**. Supports **personalized marketing** to boost lifetime value.  
-📸 *Screenshot:* `docs/images/customer-segmentation-loyalty.png`
+### Customer & Transaction Analytics Dashboard
+Covers customer segmentation, purchase frequency, revenue by discount level, and segment contributions.  
+📸 ![Customer Transaction](docs/images/customer-transaction-analytics.png)
 
-### 5) Salesforce CRM (Conceptual)
-Shows **customer growth, feedback sentiment, brand performance, payment mode usage**—how CRM data powers **re-engagement and feedback-driven strategy**.  
-📸 *Screenshot:* `docs/images/crm-salesforce-dashboard.png`
+### Current Business Health – Client View
+Provides high-level KPIs: revenue, gross profit, order value, and critical stock.  
+📸 ![Business Health](docs/images/current-business-health.png)
 
-### 6) Operational KPIs & Feedback Analytics *(if included)*
-
+### Sales Growth Strategy – Future Plan
+Forecasts sales, evaluates discount impact, and shows stock optimization and payment mode split.  
+📸 ![Growth Strategy](docs/images/sales-growth-strategy.png)
 
 ---
 
